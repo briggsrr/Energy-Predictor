@@ -6,6 +6,8 @@ For predicting the electrical energy output of a CCPP
 
 `conda activate ner_system`
 
+`python train.py` - model will save locally
+
 `python test.py`
 
 
